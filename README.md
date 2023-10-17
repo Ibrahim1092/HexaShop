@@ -12,7 +12,7 @@ Modify Home Page Design (Images...)
 ### About_Us Page
 Modify About_Us Page Design And Details (Images , Links )
 # Shopping Cart
-Contains details of the products chosen by the user (image , details , price)
+Contains details of the products chosen by the user (image , details , price) <br />
 The user can remove a product from the shopping cart or modify the product quantity
 # Authentication
 Only the admins can access the dashboard
@@ -21,7 +21,7 @@ Only registered users can add to cart or enter shopping cart
 ### FrameWorks
 Laravel , Bootstrap
 ### Libraries
- Jquery
- ..............................................................................................................
+ Jquery <br />
+ .............................................................................................................. <br />
                                                           Best Regards
                                                
